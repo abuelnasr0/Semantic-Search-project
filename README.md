@@ -4,13 +4,19 @@
 
 
 
-[SBERT]: https://sbert.net/
+[SBERT]: https://sbert.net/  
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8-sie8-GVLU)
+
 
 ![Main Character](https://github.com/adelelwan24/Semantic-Search-project/blob/main/client/src/assets/main_page.png?raw=true)
 </div>
 
 ## Goal
 To simplify the process of searching through videos by utilizing semantic search technology, specifically the SBERT model.  
+=======
+## Demo
+https://github.com/adelelwan24/Semantic-Search-project/assets/72202195/cb0a3074-9812-4d23-a2ad-5cbd500e5a5d
+
 We want to make it easier for users to find the specific information they need within a video, without having to watch the entire video or listen to the whole podcast.  
 By using semantic search technology, our project aims to improve the efficiency of searching through videos, particularly for educational purposes.  
 This will save users time and make it easier for them to find the information they need, ultimately improving their overall experience.  
