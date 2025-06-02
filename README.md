@@ -113,3 +113,7 @@ Let me know if you’d like a version formatted for a GitHub README, a website l
 | **MRR@100**       	|             0.7364            	| 0.6604 	|             0.5143            	| 0.4929 	|
 | **NDCG@10**       	|             0.768             	| 0.6905 	|             0.5564            	| 0.5307 	|
 | **NDCG@100**      	|             0.7858            	| 0.7139 	|             0.597             	| 0.5688 	|
+
+
+<h1 align="center" style='font-size:40px'>Thanks</h1>
+
